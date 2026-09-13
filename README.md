@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+HYDROBITES
 
 
 ## Basic Details
