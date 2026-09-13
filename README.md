@@ -6,17 +6,16 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: CLAN
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Muhammed Aman abdul latheef - Al azhar college of engineering and technology 
+- Member 2: Anfal Anzari - Al azhar college of engineering and technology 
 
 ### Project Description
 [2-3 lines about what your project does]
-
+HydroBite is a low-cost cardboard hydraulic excavator that replaces its bucket with a spoon to scoop and deliver food. It uses syringes, water, and Pascal’s law to control the excavator's movements.
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
 
