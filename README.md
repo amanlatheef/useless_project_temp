@@ -86,13 +86,17 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
+<p align="center">
+  <img src="file_00000000948c82089508c82518cf5bce.png" width="48%">
+  <img src="file_00000002d2c8211a6966f60fc7a3bb5.png" width="48%">
+</p>
 ![Build](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
+<p align="center">
+  <img src="IMG20260913120804.jpg" width="48%">
+  <img src="IMG20260913120751.jpg" width="48%">
+</p>
 *Explain the final build*
 
 ### Project Demo
