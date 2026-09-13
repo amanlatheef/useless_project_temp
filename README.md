@@ -3,26 +3,27 @@
 
 
 # [Project Name] 🎯
-
+Hydrobites
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: CLAN
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead:Muhammed Aman Abdul Latheef - Al azhar college of engineering and technology 
+- Member 2: Anfal Anzari - Al azhar college of engineering and technology 
 
 ### Project Description
 [2-3 lines about what your project does]
+HydroBite is a low-cost cardboard hydraulic excavator that replaces its bucket with a spoon to scoop and deliver food. It uses syringes, water, and Pascal’s law to control the excavator's movements.
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
+humans waste time by washing hands before or after eating a food
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
-
+By replacing a simple spoon with a hydraulic JCB that scoops, lifts, rotates, and delivers the food—because apparently, a spoon was too efficient. 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
@@ -32,10 +33,26 @@ For Software:
 - [Tools used]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+Main Components
+Cardboard body, boom & arm
+8 syringes
+Silicone tubes
+Plastic spoon
+Water
+Tape
+wood stick
+Specifications
+Low-cost hydraulic mechanism
+Water-powered
+Manual syringe control
+Cardboard construction
+4 movements: boom, arm, rotation & spoon tilt
+Tools Required
+Scissors
+Cutter
+glue
+Ruler
+Pencil/marker
 ### Implementation
 For Software:
 # Installation
